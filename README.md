@@ -30,18 +30,18 @@ You'll have the whole workshop to complete this lab. Use that time to get to kno
 
 Please collect the following content from your assigned partner for their profile. This content doesn't have to be finalized, but you need something. They'll be using this content as the project evolves for their resume and other profiles online.
 
-* Name
-* Github Username
+* Name: Mamadou Ndiaye
+* Github Username: mndiaye
 * Blog Url (if they don't already have a blog, we'll set one up at their-github-username.github.io)
-* Tagline
-* Profile Picture (something semi-professional, a headshot, of a good reusable size that can be easily cropped)
-* Background Picture
-* Favorite Websites
-* Previous Work Experience
-* Short Bio
-* Twitter URL
-* LinkedIn URL
-* Education
+* Tagline: "Mamadeezy"
+* Profile Picture (something semi-professional, a headshot, of a good reusable size that can be easily cropped): https://imgur.com/a/ZdNyeqP
+* Background Picture: 
+* Favorite Websites: Google, Youtube 
+* Previous Work Experience: City of Pittsburg Office of Management and Budget 
+* Short Bio: I am from PG County Maryland. I went to Kent State University and majored in Computer Information Systems. Fun fact: I love Italian opera. 
+* Twitter URL: https://twitter.com/dowhachaMAMADOU
+* LinkedIn URL: https://www.linkedin.com/in/mamadou-ndiaye-jr-785b2b60/
+* Education: Kent State University
 
 ### Background and Profile Images
 
